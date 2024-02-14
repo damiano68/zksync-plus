@@ -1,3 +1,4 @@
+```json
 {
   "name": "zksync-plus",
   "description": "zkSync Plus - all in one wallet for zkSync",
@@ -74,3 +75,4 @@
     "vue": "latest"
   }
 }
+```
